@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=GND Pin=U?-21
+Added Component: Designator=R?(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_9.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Yageo%20Renders/0805-(2012-Metric).jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.125W, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0 ?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance (Sortable)"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-0.0CRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "Jumper"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+2.8V Pin=R?-1
+Added Pin To Net: NetName=+2.8V Pin=R?-2
+Added Member To Class: ClassName=MagController Member=Component C? 399-3520-1-ND
+Added Member To Class: ClassName=MagController Member=Component C? __template_cap
+Added Member To Class: ClassName=Power Supply Member=Component C? CAP_100UF_1206_SMD
+Added Member To Class: ClassName=Power Supply Member=Component C? CAP_100UF_1206_SMD
+Added Member To Class: ClassName=Power Supply Member=Component C? CAP_100UF_1206_SMD
+Added Member To Class: ClassName=Power Supply Member=Component C? CAP_100UF_1206_SMD
+Added Member To Class: ClassName=Time of Flight Member=Component C? __template_cap
+Added Member To Class: ClassName=MagController Member=Component J? CONN_2x3_15-91-2060
+Added Member To Class: ClassName=MagController Member=Component J? CONN HEADER 6POS RA SMT
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=Power Supply Member=Component R? __template_resistor
+Added Member To Class: ClassName=Power Supply Member=Component R? __template_resistor
+Added Member To Class: ClassName=Power Supply Member=Component R? __template_resistor
+Added Member To Class: ClassName=Power Supply Member=Component R? __template_resistor
+Added Member To Class: ClassName=Time of Flight Member=Component R? __template_resistor
+Added Member To Class: ClassName=Time of Flight Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component TP? TEST_POINT_RED_KEYSTONE_5000
+Added Member To Class: ClassName=MagController Member=Component TP? TEST_POINT_BLACK_KEYSTONE_5001

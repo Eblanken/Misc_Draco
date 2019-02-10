@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=GPIO1 Pin=U?-1
+Removed Pin From Net: NetName=SCL Pin=U?-5
+Removed Pin From Net: NetName=SDA Pin=U?-6
+Removed Pin From Net: NetName=GND Pin=U?-10
+Removed Pin From Net: NetName=+2.8V Pin=U?-12
+Added Component: Designator=U?(TOF_VL6180X)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Sensors, Transducers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/11/28/86/e6/26/44/b3/DM00112632.pdf/files/DM00112632.pdf/jcr:content/translations/en.DM00112632.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/11/28/86/e6/26/44/b3/DM00112632.pdf/files/DM00112632.pdf/jcr:content/translations/en.DM00112632.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "VL6180XV0NR/1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-10°C ~ 60°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "I²C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "12-SMD Module"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=4.91, 10=4.413, 100=3.6153 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Proximity Detection"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2774"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "12-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-14702-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ambient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "2.6 V ~ 3 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GPIO1 Pin=U?-1
+Added Pin To Net: NetName=SCL Pin=U?-1
+Added Pin To Net: NetName=GPIO0 Pin=U?-4
+Added Pin To Net: NetName=GPIO1 Pin=U?-5
+Added Pin To Net: NetName=SCL Pin=U?-5
+Added Pin To Net: NetName=SDA Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=+2.8V Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=+2.8V Pin=U?-12
+Added Pin To Net: NetName=G_CAT Pin=U?-12
+Added Member To Class: ClassName=MagController Member=Component C? __template_cap
+Added Member To Class: ClassName=MagController Member=Component C? 399-3520-1-ND
+Added Member To Class: ClassName=Power Supply Member=Component C? CAP_100UF_1206_SMD
+Added Member To Class: ClassName=Power Supply Member=Component C? CAP_100UF_1206_SMD
+Added Member To Class: ClassName=Power Supply Member=Component C? CAP_100UF_1206_SMD
+Added Member To Class: ClassName=Power Supply Member=Component C? CAP_100UF_1206_SMD
+Added Member To Class: ClassName=MagController Member=Component J? CONN HEADER 6POS RA SMT
+Added Member To Class: ClassName=MagController Member=Component J? CONN_2x3_15-91-2060
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=Power Supply Member=Component R? __template_resistor
+Added Member To Class: ClassName=Power Supply Member=Component R? __template_resistor
+Added Member To Class: ClassName=Power Supply Member=Component R? __template_resistor
+Added Member To Class: ClassName=Power Supply Member=Component R? __template_resistor
+Added Member To Class: ClassName=Time of Flight Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component TP? TEST_POINT_BLACK_KEYSTONE_5001
+Added Member To Class: ClassName=MagController Member=Component TP? TEST_POINT_RED_KEYSTONE_5000

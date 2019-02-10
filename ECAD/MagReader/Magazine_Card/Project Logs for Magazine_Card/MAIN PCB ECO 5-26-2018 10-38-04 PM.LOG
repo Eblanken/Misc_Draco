@@ -1,0 +1,55 @@
+Change Component DesignItemId : Designator=J? Old DesignItemId=CONN_1x3_RA_SMT_MALE_TSM-103-01-L-SH New DesignItemId=CONN_1x3_640454-3
+Change Component Footprint: Designator=J? Old Footprint=CONN_1x3_100MIL_RA_SMT New Footprint=CONN_1x3_100MIL
+Change Component Comment : Designator=J? Old Comment=CONN_1x3_RA_SMT_MALE_TSM-103-01-L-SH New Comment=CONN_1x3_640454-3
+Change Component Description : Designator=J? Old Description=CONN HEADER 3POS .100" SNGL SMD New Description=CONN HEADER VERT 3POS .100 TIN
+Change component parameters: Designator = "J?"; Footprint = "CONN_1x3_100MIL"; UniqueID = "\JPRTXECE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Category"; Value = "Connectors, Interconnects"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=640454&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Header, Unshrouded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Finish"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Finish Thickness"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Mating Length"; Value = "0.295" (7.49mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fastening Type"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Polarizing Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "640454-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.17, 10=0.162, 25=0.1204, 50=0.1032, 100=0.0997, 250=0.08592, 500=0.08248, 1000=0.07218, 2500=0.0653 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "6372"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "A19430-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=MagController Member=Component C? 399-3520-1-ND
+Added Member To Class: ClassName=MagController Member=Component C? __template_cap
+Added Member To Class: ClassName=Power Supply Member=Component C? CAP_100UF_1206_SMD
+Added Member To Class: ClassName=Power Supply Member=Component C? CAP_100UF_1206_SMD
+Added Member To Class: ClassName=Power Supply Member=Component C? CAP_100UF_1206_SMD
+Added Member To Class: ClassName=Power Supply Member=Component C? CAP_100UF_1206_SMD
+Added Member To Class: ClassName=Time of Flight Member=Component C? __template_cap
+Added Member To Class: ClassName=MagController Member=Component J? CONN_2X3
+Added Member To Class: ClassName=MagController Member=Component J? CONN HEADER 6POS RA SMT
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=Power Supply Member=Component R? __template_resistor
+Added Member To Class: ClassName=Power Supply Member=Component R? __template_resistor
+Added Member To Class: ClassName=Power Supply Member=Component R? __template_resistor
+Added Member To Class: ClassName=Power Supply Member=Component R? __template_resistor
+Added Member To Class: ClassName=Time of Flight Member=Component R? __template_resistor
+Added Member To Class: ClassName=Time of Flight Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component TP? TEST_POINT_BLACK_KEYSTONE_5001
+Added Member To Class: ClassName=MagController Member=Component TP? TEST_POINT_RED_KEYSTONE_5000

@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=MagController.SchDoc
+Record=SheetSymbol|SourceDocument=MagController.SchDoc|Designator=Power Supply|SchDesignator=Power Supply|FileName=PWR.SchDoc|SymbolType=Normal|RawFileName=PWR.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MagController.SchDoc|Designator=Time of Flight|SchDesignator=Time of Flight|FileName=TOF.SchDoc|SymbolType=Normal|RawFileName=TOF.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

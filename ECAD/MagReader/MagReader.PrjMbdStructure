@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=MagReaderMulti.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=Magazine_Card\Magazine_Card.PrjPcb
+Record=SubProject|SourceDocument=MagReaderMulti.MbsDoc|ProjectPath=Magazine_Card\Magazine_Card.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MagReaderMulti.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=Magazine_Card_RF\Magazine_Card_RF.PrjPcb
+Record=SubProject|SourceDocument=MagReaderMulti.MbsDoc|ProjectPath=Magazine_Card_RF\Magazine_Card_RF.PrjPcb

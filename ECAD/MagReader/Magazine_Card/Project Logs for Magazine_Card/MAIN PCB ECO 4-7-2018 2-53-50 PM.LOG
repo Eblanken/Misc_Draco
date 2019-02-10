@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=+2.8V Pin=C?-1
+Removed Pin From Net: NetName=+2.8V Pin=C?-1
+Removed Pin From Net: NetName=+2.8V Pin=R?-1
+Removed Pin From Net: NetName=+2.8V Pin=R?-2
+Removed Pin From Net: NetName=+2.8V Pin=R?-2
+Removed Pin From Net: NetName=+2.8V Pin=U?-9
+Removed Pin From Net: NetName=+2.8V Pin=U?-12
+Added Pin To Net: NetName=+2.8V TOF Pin=C?-1
+Added Pin To Net: NetName=+2.8V TOF Pin=C?-1
+Added Pin To Net: NetName=+2.8V TOF Pin=R?-1
+Added Pin To Net: NetName=+2.8V TOF Pin=R?-2
+Added Pin To Net: NetName=+2.8V TOF Pin=R?-2
+Added Pin To Net: NetName=+2.8V TOF Pin=U?-9
+Added Pin To Net: NetName=+2.8V TOF Pin=U?-12
+Added Net: Name=+2.8V TOF
+Added Member To Class: ClassName=MagController Member=Component C? 399-3520-1-ND
+Added Member To Class: ClassName=MagController Member=Component C? __template_cap
+Added Member To Class: ClassName=Power Supply Member=Component C? CAP_100UF_1206_SMD
+Added Member To Class: ClassName=Power Supply Member=Component C? CAP_100UF_1206_SMD
+Added Member To Class: ClassName=Power Supply Member=Component C? CAP_100UF_1206_SMD
+Added Member To Class: ClassName=Power Supply Member=Component C? CAP_100UF_1206_SMD
+Added Member To Class: ClassName=Time of Flight Member=Component C? __template_cap
+Added Member To Class: ClassName=MagController Member=Component J? CONN HEADER 6POS RA SMT
+Added Member To Class: ClassName=MagController Member=Component J? CONN_2x3_15-91-2060
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component R? __template_resistor
+Added Member To Class: ClassName=Power Supply Member=Component R? __template_resistor
+Added Member To Class: ClassName=Power Supply Member=Component R? __template_resistor
+Added Member To Class: ClassName=Power Supply Member=Component R? __template_resistor
+Added Member To Class: ClassName=Power Supply Member=Component R? __template_resistor
+Added Member To Class: ClassName=Time of Flight Member=Component R? __template_resistor
+Added Member To Class: ClassName=Time of Flight Member=Component R? __template_resistor
+Added Member To Class: ClassName=MagController Member=Component TP? TEST_POINT_BLACK_KEYSTONE_5001
+Added Member To Class: ClassName=MagController Member=Component TP? TEST_POINT_RED_KEYSTONE_5000

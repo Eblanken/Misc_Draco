@@ -1,0 +1,27 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Magazine_Card_RF.PrjPcb]
+   Generated File[ANTENNA.GTO]
+   Generated File[ANTENNA.GTP]
+   Generated File[ANTENNA.GTS]
+   Generated File[ANTENNA.GTL]
+   Generated File[ANTENNA.GBL]
+   Generated File[ANTENNA.GBS]
+   Generated File[ANTENNA.GBP]
+   Generated File[ANTENNA.GBO]
+   Generated File[ANTENNA.GM1]
+   Generated File[ANTENNA.GM13]
+   Generated File[ANTENNA.GM15]
+   Generated File[ANTENNA.GM19]
+   Generated File[ANTENNA.GKO]
+   Generated File[ANTENNA.GPT]
+   Generated File[ANTENNA.GPB]
+   Generated File[ANTENNA.RUL]
+   Generated File[ANTENNA.EXTREP]
+   Generated File[ANTENNA.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 11:57:19 AM On 6/20/2018
